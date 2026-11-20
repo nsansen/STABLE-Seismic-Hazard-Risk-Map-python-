@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+# intermediate shapefile written by the notebook
+delete_me1.*
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+# Geospatial stack is often easier to install via conda-forge; see README.
+geopandas
+shapely
+pyshp
+descartes
+libpysal
+folium
+numpy
+pandas
+scipy
+matplotlib
